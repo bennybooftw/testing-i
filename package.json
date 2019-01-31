@@ -1,0 +1,22 @@
+{
+  "name": "testing-i",
+  "version": "1.0.0",
+  "description": "In this project, you will demonstrate proficiency by writing unit tests and production code to satisfy the _Minimum Viable Product_ described below.",
+  "main": "enhancer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennybooftw/testing-i.git"
+  },
+  "author": "Ben Masterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennybooftw/testing-i/issues"
+  },
+  "homepage": "https://github.com/bennybooftw/testing-i#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
